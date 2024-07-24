@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  Dogs
+
+  Created by Kumararaja Krishnan on 7/23/24.
+  
+*/
+
+//Mark: - Network Error Strings
+"InvalidURL" = "Invalid URL error occurred.";
+"RequestFailed" = "Request failed with error:";
+"InvalidResponse" = "Invalid response error occurred.";
+"DecodingFailedWithError" = "Decoding failed with error:";
+"UnAuthorizedError" = "Invalid Credentials";
+
+
+//Mark: -  Module Strings
+"NoImagefound" = "No Image found";
+"SelectSubBreed" = "Select SubBreed";
+"DogsList" = "Dogs List";
+"Search" = "Search";
+
+//Mark: - NoNetwork Error Strings
+"NoInternetConnection" = "No Internet Connection";
+"NoNetworkContent" = "Check your connection , then refresh the page";
+"Refresh" = "Refresh";
+
+
+//Mark: - NoData Strings
+"NoData" = "No Data";
